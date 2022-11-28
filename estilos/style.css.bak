@@ -1,0 +1,52 @@
+body{
+		background-color: #5BFCAE
+}
+h1{
+	background-color: #ssssDA78C5
+}
+@media screen and (max-width:500px){
+#caja1 {
+	background-color: #FCB5A5
+}
+#caja2 {
+	background-color: #F4C389
+} 
+#caja3 {
+	background-color: #F4C389
+}
+#caja4 {
+	background-color: #F4F489
+}
+#caja5 {
+	background-color: #DAF489
+}
+#caja6 {
+	background-color: #C3F489
+}
+#caja7 {
+	background-color: #9CF489
+}}
+
+@media screen and (min-width:500px){
+
+#caja1 {
+	background-color: #F489A0
+}
+#caja2 {
+	background-color: #FB9AEA
+} 
+#caja3 {
+	background-color: #E59AFB
+}
+#caja4 {
+	background-color: #B29AFB
+}
+#caja5 {
+	background-color: #39F59E
+}
+#caja6 {
+	background-color: #BEE6FD
+}
+#caja7 {
+	background-color: #C5C8EF
+}}
